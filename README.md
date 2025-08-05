@@ -13,7 +13,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 ## Author
 
 -   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
+-   [GitHub](https://github.com/subbareeddy)
 -   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
 -   [Twitter](https://twitter.com/prakashsakari)
 
