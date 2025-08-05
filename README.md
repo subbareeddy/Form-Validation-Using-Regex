@@ -14,8 +14,8 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 -   Subba Reddy K - follow me on 👇
 -   [GitHub](https://github.com/subbareeddy)
--   [LinkedIn]([https://www.linkedin.com/in/prakashsakari/](https://www.linkedin.com/in/subbareddy-k-858468325/))
--   [Twitter]([https://twitter.com/prakashsakari](https://x.com/subbareddyk088))
+-   [LinkedIn](https://www.linkedin.com/in/subbareddy-k-858468325/)
+-   [Twitter](https://x.com/subbareddyk088)
 
 
 ## Live Link
