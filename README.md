@@ -18,9 +18,6 @@ Built with VanillaJS this form has all the required validation to get an authent
 -   [Twitter](https://x.com/subbareddyk088)
 
 
-## Live Link
-
-https://loginformvalidate.netlify.app/
 
 
 ## Run Locally
